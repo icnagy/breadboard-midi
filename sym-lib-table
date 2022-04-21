@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "4ms")(type "KiCad")(uri "${KICAD6_3RD_PARTY}/symbols/com_github_4ms_4ms-kicad-lib/4ms_Jack.kicad_sym")(options "")(descr ""))
+)
